@@ -25,3 +25,5 @@ etotal = sum(dfelec)
 cwtotal = sum(dfchill)
 stotal = sum(dfsteam)
 
+#test test does this update?
+#why wont this update
