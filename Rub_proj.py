@@ -25,5 +25,9 @@ etotal = sum(dfelec)
 cwtotal = sum(dfchill)
 stotal = sum(dfsteam)
 
-#test test does this update?
-#why wont this update
+# Data Exploration 
+plot(etotal, 'b-o') #plots electricty consumtion by fiscal year (blue dots)
+plot(cwtotal, 'g-o') #plots chilled water use 
+plot(stotal, 'r-o') #plot steam use
+
+
